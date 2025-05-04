@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "603516174250",
+    "project_id": "chatsetgo-flutter-app",
+    "storage_bucket": "chatsetgo-flutter-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603516174250:android:e0b63668381829066d35d3",
+        "android_client_info": {
+          "package_name": "com.chatsetgo.chatsetgo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrNW_55hBDOaaKXNFG4u36zu1ompqsS54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
